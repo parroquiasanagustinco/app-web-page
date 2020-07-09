@@ -1,0 +1,5 @@
+ErrorDocument 400 http://app.sanagustin.xyz
+ErrorDocument 401 http://app.sanagustin.xyz
+ErrorDocument 403 http://app.sanagustin.xyz
+ErrorDocument 404 http://app.sanagustin.xyz
+ErrorDocument 503 http://app.sanagustin.xyz
